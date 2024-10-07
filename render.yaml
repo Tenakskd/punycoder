@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: ilovegithubs
+    name: punycode-us
     env: python
     region: Oregon
     plan: free
